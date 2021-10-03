@@ -1,2 +1,2 @@
 # flutter_demo
-A demo of Flutter widgets
+A demo of Flutter - Initial trials
